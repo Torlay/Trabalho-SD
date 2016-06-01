@@ -27,3 +27,5 @@ O teste de compras é realizado comprando 3 ações no dia atual e vendendo-as n
 Para fins de teste, é possível executar o Mestre e o Escravo na mesma máquina, no entanto não é possível executar mais de um Mestre ou mais de um Escravo na mesma máquina, por problemas de conflitos nas portas utilizadas para a comunicação.
 
 Ao baixar o projeto, o histórico de ações da PETR4 estará na pasta de arquivos do Mestre, com o nome padrão do Yahoo! Finance, table.csv.
+
+Para executar o projeto, é necessário possuir o Eclipse instalado e, preferencialmente, a última versão do JDK.
